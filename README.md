@@ -2,4 +2,4 @@
 # Working on a deep learning book for mathematicians
 
 # References
-1. Machine Learning An Akgorithmic Perspective 
+1. Machine Learning An Algorithmic Perspective - Marsland
